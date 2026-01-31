@@ -10,8 +10,9 @@ __pycache__/
 dist/
 build/
 
-# Generated images
+# Generated images (except logo)
 *.png
+!docs/logo.png
 *.jpg
 *.jpeg
 *.webp

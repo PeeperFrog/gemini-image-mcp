@@ -1,4 +1,8 @@
-# Gemini Image MCP Server
+<p align="center">
+  <img src="docs/logo.png" alt="Gemini Image MCP Server" width="200">
+</p>
+
+<h1 align="center">Gemini Image MCP Server</h1>
 
 An MCP (Model Context Protocol) server that provides AI image generation tools using Google's Gemini models. Supports single and batch image generation, multiple reference images, WebP conversion, and direct WordPress upload.
 
