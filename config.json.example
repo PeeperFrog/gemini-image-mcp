@@ -1,0 +1,10 @@
+{
+  "images_dir": "~/Pictures/ai-generated-images",
+  "batch_subdir": "batch",
+  "queue_filename": "batch_queue.json",
+  "batch_manager_script": "./src/batch_manager.py",
+  "batch_generate_script": "./src/batch_generate.py",
+  "webp_convert_script": "./scripts/webp-convert.py",
+  "max_reference_images": 14,
+  "api_delay_seconds": 3
+}
